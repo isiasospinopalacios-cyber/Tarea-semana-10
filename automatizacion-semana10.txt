@@ -1,0 +1,9 @@
+¿Qué evento activa el flujo?
+Se recibe un nuevo reporte o denuncia en la plataforma.
+ 
+ ¿Qué mensaje se envía a Telegram?
+ "Nuevo reporte recibido: [tipo] | Ubicación: [zona] | Ver detalles aquí: [enlace interno]"
+  
+  ¿Qué información NO se envía por seguridad?
+  Datos personales, identidad, datos de contacto ni pruebas sensibles.
+  

@@ -1,0 +1,14 @@
+¿Qué 2 tareas del backlog harías primero?
+ 
+ 1. Reporte de problemas en espacios públicos
+ ​
+ 2. Denuncias anónimas de irregularidades
+  
+  ¿Por qué son las más importantes?
+  Son las que dan uso principal a la herramienta: permiten que la comunidad participe y reporte situaciones urgentes, siendo la base de toda la solución de veeduría.
+   
+   Definición simple de "terminado"
+   ✅️ Funciona como se pidió
+   ✅ Fue probada sin errores
+   ✅ Está registrada y documentada
+   

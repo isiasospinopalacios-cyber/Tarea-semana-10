@@ -1,0 +1,11 @@
+1. Reporte de problemas
+Como vecino, quiero reportar fallas en espacios públicos para que se solucionen.
+​
+2. Denuncias anónimas
+Como ciudadano, quiero denunciar irregularidades sin dar mis datos.
+​
+3. Seguimiento de recursos
+Como veedor, quiero consultar gastos y avance de obras públicas.
+​
+4. Reuniones virtuales
+Como representante, quiero convocar reuniones y votar decisiones en línea.
